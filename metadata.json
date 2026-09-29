@@ -1,0 +1,7 @@
+{
+  "name": "BizzyCart",
+  "description": "Indian ecommerce marketplace to discover and purchase products across electronics, fashion, home, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

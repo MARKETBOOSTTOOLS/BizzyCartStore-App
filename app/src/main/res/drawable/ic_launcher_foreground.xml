@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shopping bag inside cart -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,32 L64,32 L68,54 L40,54 Z" />
+    <!-- Bag handles -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,32 C48,27 60,27 60,32" />
+    <!-- Bag checkmark/flash -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M49,43 L53,47 L60,39" />
+    <!-- Shopping cart main frame & basket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M31,36 L36,36 L43,62 L71,62 L77,44 L39,44" />
+    <!-- Cart front wheel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M46,71 A4.5,4.5 0 1,0 46,71.01" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,71 A2,2 0 1,0 46,71.01" />
+    <!-- Cart rear wheel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M67,71 A4.5,4.5 0 1,0 67,71.01" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,71 A2,2 0 1,0 67,71.01" />
+    <!-- Fast speed / deal rays -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M27,42 L23,42 M25,48 L20,48 M28,54 L24,54" />
+</vector>
